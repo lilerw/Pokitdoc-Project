@@ -1,0 +1,18 @@
+.App-logo {
+  height: 80%;
+  padding-top: 10px;
+  margin-left: 10px;
+}
+
+.App-header {
+  background-color: #222;
+  border-bottom: solid black;
+  height: 10%;
+  min-height: 80px;
+  width: 100%;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
